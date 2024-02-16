@@ -1,0 +1,20 @@
+﻿CookbookWPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\BOTH SANN\Desktop\CookbookWPF-master\CookbookWPF\obj\Debug\net6.0-windows\
+CookbookWPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\BOTH SANN\Desktop\CookbookWPF-master\CookbookWPF\App.xaml
+8-1394983295
+
+341410270548
+217-346699747
+Compoments\RecipeDetailsForm.xaml;Compoments\RecipesDetails.xaml;Compoments\RecipesListing.xaml;Compoments\RecipesListingItem.xaml;MainWindow.xaml;Views\AddRecipeView.xaml;Views\CookbookView.xaml;Views\EditRecipeView.xaml;
+
+True
+
